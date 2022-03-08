@@ -1,1 +1,1 @@
-Simple RESTfull application
+Simple RESTful application
